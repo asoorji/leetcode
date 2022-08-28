@@ -1,4 +1,5 @@
-/* Online C Compiler and Editor */
+//https://leetcode.com/problems/running-sum-of-1d-array/
+
 #include <stdio.h>
 
 int main()
